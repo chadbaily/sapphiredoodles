@@ -3818,12 +3818,12 @@
 		*/
 		#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #fff;
 		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/puppies/IMG_0132.JPG");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: #fff;
+		color: #ffffff;
 		padding: 5em;
 		text-align: center;
 	}
