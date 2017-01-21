@@ -3130,7 +3130,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/puppies/IMG_0132.JPG");
+		background-image: url("images/overlay.png"), url("../../images/puppies/IMG_6043.JPG");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3819,7 +3819,7 @@
 		#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #fff;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/puppies/IMG_0132.JPG");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/puppies/IMG_6043.JPG");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
