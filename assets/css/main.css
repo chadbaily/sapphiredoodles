@@ -3102,6 +3102,22 @@ body.landing #page-wrapper {
   color: #666 !important;
 }
 
+#banner input[type='submit'].special,
+#banner input[type='reset'].special,
+#banner input[type='button'].special,
+#banner .button.facebook {
+  background: #3b5998;
+  color: #fff !important;
+}
+
+input[type='submit'].special:hover,
+input[type='reset'].special:hover,
+input[type='button'].special:hover,
+.button.facebook:hover {
+  background: #8b9dc3 !important;
+}
+
+
 /* Main */
 
 #main {
